@@ -1,0 +1,41 @@
+
+Build 203 - Tested out some menu theme songs and added 'pitch' adjustment :::D
+Build 202 - Added WAV and OGG support to sound class
+Build 201 - Created wrapper sound class 
+Build 200 - Added OpenAL support
+- Added cvars sound_Volume (max 10) and sound_MenuMusic (0 = off, 1 = on)
+- Added 'immediate' video settings changes, removed option to turn fog off
+- Added to camera class (setviewangles) for 3d background capability 
+
+............................................
+This isn't even everything, but I will now jump to 200 and start trying to type all
+the additions or changes more clearly:
+Build 100 -
+- Removed GL_Lighting, looks like crap (might use GLSL)
+- Removed fog 'night and day' effect
+- Added fog 'night and day' effect
+- Enhanced video options, removed useless features 
+- 3d settings tweaked,
+- Video options menu added
+- CVAR system revamped again to compensate for video options
+- Audio options/Control menus added, but no text yet on them
+- Spiders are hawt tho
+- Main menu text and selection added
+- New island completed
+- Added more menus, new scenes
+- Integrated a new game class system to manage what to draw
+- Tweaked terrain generation system (easier to generate islands now)
+- Set FPS limit to 512 (smoother camera)
+- Tweaked camera settings
+- Fixing and tweaking of menus (Added options, etc)
+- Revamped cvar system (Added settings file, loading ability)
+- LEngineSettings1.cfg created
+- Auto-saving of values dynamically created
+- Integrated cvar system from Build2 (LO!l1K!11)
+- Created and tweaked keyboard system
+...........................................
+Build 3 - A Terrain generator OK?
+
+Build 2 - mmmmmmmmmmm lighting, camrea movement and cvars
+
+Build 1 - I have drow a box OK??

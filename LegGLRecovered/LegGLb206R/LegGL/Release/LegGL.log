@@ -1,0 +1,40 @@
+﻿Build started 5/29/2016 1:40:58 PM.
+     1>Project "G:\Users\John\Desktop\LegGLb206R\1 NTFS\LostFiles1\XPArchive\Reference Projects\LegGL\LegGL\LegGL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W1 /WX- /Ox /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ARB_Multisample.cpp camera.cpp cCVARS.cpp cImageHandler.cpp cInterpreter.cpp cTerrainHandler.cpp cTexHandler.cpp ending.cpp LegEngine.cpp LegFrameworkClass.cpp legPlayerEnt.cpp LegVector.cpp OpenALSound.cpp
+         ARB_Multisample.cpp
+         camera.cpp
+         cCVARS.cpp
+         cImageHandler.cpp
+         cInterpreter.cpp
+         cTerrainHandler.cpp
+         cTexHandler.cpp
+         ending.cpp
+         LegEngine.cpp
+         LegFrameworkClass.cpp
+         legPlayerEnt.cpp
+         LegVector.cpp
+         OpenALSound.cpp
+       Link:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Users\John\Desktop\LegGLb206R\1 NTFS\LostFiles1\XPArchive\Reference Projects\LegGL\Release\LegGL.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"G:\Users\John\Desktop\LegGLb206R\1 NTFS\LostFiles1\XPArchive\Reference Projects\LegGL\Release\LegGL.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Users\John\Desktop\LegGLb206R\1 NTFS\LostFiles1\XPArchive\Reference Projects\LegGL\Release\LegGL.lib" /MACHINE:X86 /SAFESEH Release\ARB_Multisample.obj
+         Release\camera.obj
+         Release\cCVARS.obj
+         Release\cImageHandler.obj
+         Release\cInterpreter.obj
+         Release\cTerrainHandler.obj
+         Release\cTexHandler.obj
+         Release\ending.obj
+         Release\LegEngine.obj
+         Release\LegFrameworkClass.obj
+         Release\legPlayerEnt.obj
+         Release\LegVector.obj
+         Release\OpenALSound.obj
+         Generating code
+     1>g:\users\john\desktop\legglb206r\1 ntfs\lostfiles1\xparchive\reference projects\leggl\leggl\openalsound.cpp(133): warning C4715: '_ov_header_fseek_wrap' : not all control paths return a value
+         Finished generating code
+         LegGL.vcxproj -> G:\Users\John\Desktop\LegGLb206R\1 NTFS\LostFiles1\XPArchive\Reference Projects\LegGL\Release\LegGL.exe
+     1>Done Building Project "G:\Users\John\Desktop\LegGLb206R\1 NTFS\LostFiles1\XPArchive\Reference Projects\LegGL\LegGL\LegGL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.22
